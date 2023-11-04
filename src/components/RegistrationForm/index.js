@@ -143,7 +143,7 @@ class RegistrationForm extends Component {
 
   renderSubmissionSuccessView = () => (
     <>
-      <mig
+      <img
         src="https://assets.ccbp.in/frontend/react-js/success-icon-img.png"
         alt="success"
         className="success-image"
